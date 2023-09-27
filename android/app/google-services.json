@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210553859047",
+    "project_id": "let-sbuy",
+    "storage_bucket": "let-sbuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210553859047:android:1ea05fc6819e48e0b7eb42",
+        "android_client_info": {
+          "package_name": "co.itplus.letsbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210553859047-4f7doksd7ar0ph53ptf3oa0bgmedq2jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDqNjyh5F5XACzs4WGWjOgltVWa6jCouU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210553859047-4f7doksd7ar0ph53ptf3oa0bgmedq2jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
